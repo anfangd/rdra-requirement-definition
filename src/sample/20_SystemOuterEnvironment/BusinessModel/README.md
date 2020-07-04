@@ -1,6 +1,6 @@
-# Context Model
+# Business Model
 
-## Porpose
+## Purpose
 
 - aaa
 
