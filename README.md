@@ -1,10 +1,12 @@
 # rdra-requirement-definition
 
-## SVG
+## Sample Diagram
+
+### Context Model
 
 ![](src/sample/10_SystemValue/ContextModel/ContextModel.drawio.svg)
 
-## PNG
+### Requirement Model
 
-![](src/sample/10_SystemValue/ContextModel/ContextModel.drawio.png)
+![](src/sample/10_SystemValue/RequirementModel/RequirementModel.drawio.svg)
 
